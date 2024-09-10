@@ -15,6 +15,7 @@ body{
 .greetings{
     font-size: 6rem;
     font-weight: 900;
+    flex-direction: column;
     text-align: center;
 }
 .greetings > span{
