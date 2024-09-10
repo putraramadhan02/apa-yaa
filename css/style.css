@@ -15,11 +15,10 @@ body{
 .greetings{
     font-size: 6rem;
     font-weight: 900;
-    flex-direction: column;
-    text-align: center;
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
+    text-align: center;
 }
 @keyframes glow{
     0%, 100%{
